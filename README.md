@@ -1,6 +1,6 @@
 # Meal_Temperature-Data
 ## Project Description
-This repository contains dataset gotten from two polls conducted in a live session with AfroFem Coder students.
+This repository contains dataset gotten from two polls conducted in a live session with 66 AfroFem Coder students.
 In Poll 1, we were asked to fill:
 1. Name
 2. Username
